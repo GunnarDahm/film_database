@@ -1,0 +1,232 @@
+,Actor,avg(Movies.Metascore)
+0, Abraham Clinkscales,44.0
+1, Adam Brody,63.0
+2, Adam Devine,60.0
+3, Aja Naomi King,46.0
+4, Alan Arkin,80.0
+5, Alexandra Shipp,50.0
+6, Amanda Seyfried,43.0
+7, America Ferrera,71.0
+8, Annie Potts,84.0
+9, Anya Taylor-Joy,43.0
+10, Aryn Wright-Thompson,17.0
+11, Asher Angel,70.0
+12, Ashley McGuire,35.0
+13, Aya Hisakawa,59.0
+14, Barry Pepper,60.0
+15, Beanie Feldstein,84.0
+16, Ben Mendelsohn,64.0
+17, Bill Hader,60.0
+18, Bill Nighy,53.0
+19, Blake Shelton,39.0
+20, Brad Pitt,83.0
+21, Brady Noon,60.0
+22, Brianne Tju,43.0
+23, Brooks Ryan,10.0
+24, Bruce Willis,43.0
+25, Bryan Cranston,46.0
+26, Bryce Dallas Howard,69.0
+27, Cameron Arnett,17.0
+28, Cate Blanchett,71.0
+29, Chris Evans,78.0
+30, Chris Hemsworth,78.0
+31, Christoph Waltz,53.0
+32, Cole Sprouse,53.0
+33, Corinne Foxx,43.0
+34, Dakota Johnson,69.0
+35, Danny Huston,45.0
+36, David Denman,44.0
+37, David Walliams,68.0
+38, Dean Chaumoo,66.0
+39, Dean Norris,61.0
+40, Dee Bradley Baker,63.0
+41, Denise Gough,66.0
+42, Dennis Haysbert,46.0
+43, Dennis Quaid,43.0
+44, Diana Lin,90.0
+45, Douggie McMeekin,35.0
+46, Edward James Olmos,50.0
+47, Elisabeth Moss,81.0
+48, Elizabeth Banks,65.0
+49, Ellise Chappell,56.0
+50, Emile Hirsch,83.0
+51, Eric Stonestreet,55.0
+52, F. Murray Abraham,71.0
+53, Finn Wolfhard,-1.0
+54, Frederick Schmidt,45.0
+55, Gabriel Rush,61.0
+56, Gary Cole,43.0
+57, Gil Perez-Abraham,90.0
+58, Greg Kinnear,80.0
+59, Halle Berry,73.0
+60, Harrison Ford,55.0
+61, Henry Czerny,63.0
+62, Ian McShane,73.0
+63, Ice-T,39.0
+64, Idris Elba,60.0
+65, Israel Broussard,57.0
+66, Jack Dylan Grazer,70.0
+67, Jack Reynor,72.0
+68, Jackson A. Dunn,44.0
+69, Jake Gyllenhaal,69.0
+70, James McAvoy,-1.0
+71, Jamie Bell,69.0
+72, Jared Lotz,10.0
+73, Jason Statham,60.0
+74, Jason Sudeikis,84.0
+75, Jay Ellis,48.0
+76, Jaynee-Lynne Kinchen,41.0
+77, Jennifer Connelly,53.0
+78, Jennifer Garner,45.0
+79, Jennifer Lawrence,43.0
+80, Jessica Chastain,-1.0
+81, Jessica Williams,84.0
+82, John Hawkes,69.0
+83, Jonah Hauer-King,50.0
+84, Josh Brener,49.0
+85, Josh Gad,60.0
+86, Jude Law,64.0
+87, June Diane Raphael,67.0
+88, Justice Smith,53.0
+89, Kathryn Newton,53.0
+90, Kathryn Prescott,43.0
+91, Keith L. Williams,60.0
+92, Kellan Lutz,49.0
+93, Kelly Clarkson,39.0
+94, Ken Hudson Campbell,45.0
+95, Ken Watanabe,48.0
+96, Kenan Thompson,45.0
+97, Kevin Costner,43.0
+98, Kevin Hart,55.0
+99, Kimberly Hebert Gregory,53.0
+100, Kristen Ledlow,49.0
+101, Kumail Nanjiani,40.0
+102, Laura Dern,57.0
+103, Laurence Fishburne,73.0
+104, Leslie Jones,60.0
+105, Liam Hemsworth,60.0
+106, Lily James,56.0
+107, Logan Miller,48.0
+108, Madelyn Miranda,63.0
+109, Madison Iseman,53.0
+110, Mahershala Ali,53.0
+111, Malachi Barton,63.0
+112, Marg Helgenberger,43.0
+113, Margot Robbie,83.0
+114, Marisa Tomei,69.0
+115, Mark O'Brien,63.0
+116, Mark Ruffalo,78.0
+117, Mark Strong,70.0
+118, Matt Lucas,68.0
+119, Mckenna Grace,53.0
+120, Michael Eklund,57.0
+121, Michael Fassbender,43.0
+122, Michael Garza,61.0
+123, Micheál Richardson,57.0
+124, Millie Bobby Brown,48.0
+125, Mira Sorvino,42.0
+126, Moises Arias,53.0
+127, Molly Gordon,60.0
+128, Morfydd Clark,60.0
+129, Natalie Morales,42.0
+130, Nicholas Hoult,43.0
+131, Nick Frost,68.0
+132, Nicole Kidman,46.0
+133, O'Shea Jackson Jr.,67.0
+134, Patrick Wilson,53.0
+135, Paul Dano,80.0
+136, Phi Vu,57.0
+137, Priyanka Chopra,60.0
+138, Raymond Cruz,41.0
+139, Rebecca Ferguson,38.0
+140, Rebel Wilson,35.0
+141, Richard Madden,69.0
+142, Robia Scott,10.0
+143, Rocci Williams,45.0
+144, Roman Christou,41.0
+145, Ross Anderson,60.0
+146, Ryô Horikawa,59.0
+147, Samuel L. Jackson,58.666666666666664
+148, Sarah Constible,46.0
+149, Seth Rogen,67.0
+150, Shari Rigby,17.0
+151, Sistine Rose Stallone,43.0
+152, Sophia Di Martino,56.0
+153, Stephen Fry,68.0
+154, Suraj Sharma,57.0
+155, Tessa Thompson,38.0
+156, Thomas Whilley,68.0
+157, Tiffany Haddish,65.0
+158, Tim Allen,84.0
+159, Tim Heidecker,81.0
+160, Tom Taylor,66.0
+161, Tony Hale,84.0
+162, Topher Grace,46.0
+163, Tori Ellen Ross,68.0
+164, Toshio Furukawa,59.0
+165, Tyler Labine,48.0
+166, Tzi Ma,90.0
+167, Vanessa Kirby,60.0
+168, Vera Farmiga,48.0
+169, Vilhelm Blomgren,72.0
+170, Will Arnett,65.0
+171, William Jackson Harper,72.0
+172, Winston Duke,81.0
+173, Zack Gottsagen,69.0
+174,Abigail Breslin,80.0
+175,Alex Kendrick,17.0
+176,Ashley Bratcher,10.0
+177,Ashley Judd,50.0
+178,Awkwafina,90.0
+179,Benicio Del Toro,63.0
+180,Bill Skarsgård,-1.0
+181,Brie Larson,64.0
+182,Charlize Theron,67.0
+183,Chris Hemsworth,38.0
+184,Chris Pratt,65.0
+185,Dave Bautista,42.0
+186,Dwayne Johnson,64.0
+187,Elizabeth Banks,44.0
+188,Florence Pugh,72.0
+189,Gerard Butler,45.0
+190,Haley Lu Richardson,53.0
+191,Himesh Patel,56.0
+192,Hugh Jackman,68.0
+193,Jacob Tremblay,60.0
+194,James McAvoy,43.0
+195,Jason Sudeikis,60.0
+196,Jay Baruchel,71.0
+197,Jessica Rothe,57.0
+198,Josh Gad,43.0
+199,Kaitlyn Dever,84.0
+200,Kaya Scodelario,60.0
+201,Keanu Reeves,73.0
+202,Kevin Hart,46.0
+203,Kyle Chandler,48.0
+204,Leonardo DiCaprio,83.0
+205,Liam Neeson,57.0
+206,Linda Cardellini,41.0
+207,Louis Ashbourne Serkis,66.0
+208,Lupita Nyong'o,81.0
+209,Marcel Ruiz,46.0
+210,Masako Nozawa,59.0
+211,Milo Ventimiglia,43.0
+212,Patton Oswalt,55.0
+213,Pitbull,39.0
+214,Rebel Wilson,60.0
+215,Robert Downey Jr.,78.0
+216,Rosa Salazar,53.0
+217,Ryan Reynolds,53.0
+218,Samara Weaving,63.0
+219,Shia LaBeouf,69.0
+220,Sofia Mali,45.0
+221,Sophie Nélisse,43.0
+222,Taraji P. Henson,49.0
+223,Taron Egerton,69.0
+224,Taylor Russell,48.0
+225,Timothy Simons,35.0
+226,Tom Hanks,84.0
+227,Tom Holland,69.0
+228,Vera Farmiga,53.0
+229,Zachary Levi,70.0
+230,Zoe Margaret Colletti,61.0
