@@ -1,2 +1,4 @@
-# film_database
-Scripts to pull film data from OMDB to a local SQLite Database. Also has functionality to export csv tables from SQL inputs.
+<h1> E-Sports Machine Learning Model </h1>
+
+<h2> Status: In Progress </h2>
+
