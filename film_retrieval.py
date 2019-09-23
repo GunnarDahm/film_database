@@ -146,7 +146,7 @@ def save_in_database(json_data, filename):
                 print('Record for {} directing {} already found.'.format(director, title))
 
     # creating and saving to the writers table
-    cur.execute('''CREATE TABLE IF NOT EXISTS Writers (Title TEXT, Writer INTEGER)''')
+    cur.execute('''CREATE TABLE IF NOT EXISTS Writers (Title TEXT, Writer TEXT)''')
 
     if json_data['Writer'] != 'N/A':
         writers = json_data['Writer'].split(',')
